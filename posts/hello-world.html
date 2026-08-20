@@ -12,11 +12,21 @@
       line-height: 1.6;
     }
     a { color: #0066cc; }
+    
+    /* 返回链接间距 */
+    .back-links a {
+      margin-right: 20px;
+      text-decoration: none;
+    }
+    .back-links a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
-  <p><a href="/">← Back to Home</a></p>
-  <p><a href="/">← Back to posts</a></p>
+  <p class="back-links">
+    <a href="/">← Back to Home</a>
+    <a href="/posts/">← Back to Posts</a>
+  </p>
+
   <h1>Hello World</h1>
   <p><small>2026-08-21</small></p>
   <p>This is my first post. I will be updating my study notes here.</p>
