@@ -17,7 +17,7 @@
 
   <h2>Latest Posts</h2>
   <ul>
-    <li><a href="/2026/08/21/my-first-post.html">Hello World</a> — 2026-08-21</li>
+    <li><a href="/2026/08/21/hello-world.md">Hello World</a> — 2026-08-21</li>
   </ul>
 </body>
 </html>
